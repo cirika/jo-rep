@@ -1,4 +1,6 @@
 other plans
 1. ng word game (with ci-cd)
+ - web
 2. master ci-cd
 3. openshift
+4. kubernetes
