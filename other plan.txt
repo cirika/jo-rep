@@ -2,5 +2,6 @@ other plans
 1. ng word game 
   - with ci-cd
   - android
+  - ios
 2. master ci-cd
 3. openshift
