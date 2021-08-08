@@ -1,0 +1,3 @@
+other plans
+1. ng word game
+2. master ci-cd
